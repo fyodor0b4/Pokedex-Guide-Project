@@ -7,7 +7,7 @@ It is a project that uses Javascript's Fetch API library and Async, Await struct
 - JavaScript
 
 # Screenshot
-![](images/pokedexss.png)
+![](images/pokedexss.PNG)
 
 
 # GIF
